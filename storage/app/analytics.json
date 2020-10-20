@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "grupoviabr-177919",
+  "private_key_id": "ac1613a88ed89d03753d66d0be77fde072592731",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCU/JrYyY7o0HtN\nK+acEgJVJLqLKq/MqcGYRq0QYtD6nq2840TZPpk9Ko25KHX3reou9lDxZHA1NnLe\nAtYQXmPya08e8xwePfZNdIpKc4Gm/endYGfxsC2SOMKhAlXLbybNZB4mFO7SB9cO\nUEAGJ8us1S5INbwqH9U/GtLFxjH0hqJa5EXIqeJiXXjZ8BrBEZegFYX4dExRabXw\n3adaEv4lTsRKWYmki3YSpXjcAAmkLLuIWo0Dwna51WNx1mQ66sZHfli6zalfpIT3\nWBSuZJogXWXdJOvB6DsEvtrYOzfuIHHN5ZTUVgwl8yC8zs8byVRhZziTApvQt1/R\nkMcCLjT1AgMBAAECggEAM0og/qeo2JJJGGCYI7t5bRlXVOiNm84G9SbDloQGQHkX\nA5NT1Nwdgfaf0pHQxsLq/17Rr8Btdow3kCF20yzDiKWTl+qGkAyxual4oDfSdwwr\nkggJ0KTfk1qR+j7lDUNHHucsD90d+FU1nlpXKCdUETxUkgxZqkDKN07DJ83azbxz\nF6gRyASpjkRPdBKWTTHh3NqRCrruCverha88S0SuWenhVgmdetkIlT9Qnl7/y7Ra\n+JdnUgAP1wfZWMUZk2ybuIe4Qh/ZbKNtUnQGadlS7dJMXZqyDg7RmW0Z155e74HZ\nLa9QcwHR//NeWfh1Luei/u8WH2TFSNi0kYaB+YMkAwKBgQDMMKFmR7U6KV0glXGY\n5v8DgFxnTJ6+HR6clGP4au4QrzB2J4YI1ayhqHFh9+G7N+5Pwonpv/KSPDMG19Vg\nRLaFl+zkfsl/Oqtky1VJGPamlOHGfjTEGv+cC2JO18H1TrmiIFgG+TBFG7cCU2Bs\n+5CLEkkkfra+R5Ol/ROeKijYbwKBgQC6yjEn4jzg4LsQi8Yp2UyFLABJs1FVj/kI\noc/+I+PUcNKOm/njmV7LLOdbw4pdh1ru9AgiwhpXKPw316bLHq59XeItZIdWnM7Z\nG8aC66O2/zNGAT3TzV1CHXQLAPEwck/gmHiCkWs+B8kSDpo+ErW6CRcK9OsHsu4H\nPxLokG7S2wKBgQC5djpC8kLTTxq9K8AAR1+9SGulj9xnhX92bPnYexc8pEL6Lq/5\nekrQknRZrZKkQAr++w3U+HlVBcS7JHM0e3TlJrcOW3KdUya16FHQkRIHABeJ+Lvo\nmzUsANMMFcCgFR9a+NG7k76aJrA1NpHQqzYAe11f/o/xiIW9MH8PG+/5lQKBgGJI\nyZym2kmpdkS6h0a15CGeiXg+NmnDG9KC8iJTWCoMQ35ubApqRQq7UfFi7odQFXTu\nSumfIKUEF9J6UnVGa6HjqIMiBmR4lg5/IvD4dGhx19TaCmJMCOok/U5c7IwFWipf\nj+mEAt3c0twBev92cNC2v70wKgsfB0gg1B4zAV1JAoGAWl+hRtYcFoEfqA/HydJR\n/3R5CjnyD2rIq9//h1CJVMyJXEPhVf2IjjCt5RjTPigB95YwbQLACE0U2dQp+QrF\npxbzWEvGg3k3jj2RHE1dHOXvjYjBGK1cwwjxEugnzk9LgPaJHH8hCsYp2PFy11T6\nrdZxWm8h71vZ4O4/S5T/hn0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "escola-da-luz@grupoviabr-177919.iam.gserviceaccount.com",
+  "client_id": "108562919528952391793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/escola-da-luz%40grupoviabr-177919.iam.gserviceaccount.com"
+}
